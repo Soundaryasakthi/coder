@@ -29,7 +29,7 @@ node=node.next;
 }
 public static void main(String[] args){
 LinkedList list=new LinkedList();
-List.head=new Node(60
+List.head=new Node(60);
 list.head.next=new Nodes(10);
 list.head.next.next=new Node(20);
 list.head.next.next.next=new Node(100;
