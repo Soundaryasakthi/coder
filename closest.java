@@ -30,7 +30,7 @@ System.out.println(arr[min_a]+"and"+arr[min_b]);
 }
 public static void main(String[] args)
 {
-int arr[]={1,20,-10,50};
+int arr[]={-1,20,-10,50};
 minPonSum(arr,4);
 }
 }
